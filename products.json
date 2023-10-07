@@ -52,5 +52,14 @@
 		"thumbnail": "img1",
 		"code": 1234,
 		"stock": 5
+	},
+	{
+		"id": 7,
+		"title": "mesa",
+		"description": "de madera",
+		"price": 5000,
+		"thumbnail": "img1",
+		"code": 1234,
+		"stock": 5
 	}
 ]
